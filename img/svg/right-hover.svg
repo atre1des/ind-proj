@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 51" width="52" height="51">
+	<title>arrow-right-svg</title>
+	<defs>
+		<image width="52" height="51" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIiIGhlaWdodD0iNTEiIHZpZXdCb3g9IjAgMCA1MiA1MSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMC42MjAzMTYiIHdpZHRoPSI1MSIgaGVpZ2h0PSI1MSIgcng9IjgiIGZpbGw9IiMwRTZGRkYiLz4KPHBhdGggZD0iTTEyLjA5NTIgMjMuNzI5M1YyNy4yNzA5SDMzLjM0NTJMMjMuNjA1NyAzNy4wMTA1TDI2LjEyMDIgMzkuNTI1MUw0MC4xNDUyIDI1LjUwMDFMMjYuMTIwMiAxMS40NzUxTDIzLjYwNTcgMTMuOTg5N0wzMy4zNDUyIDIzLjcyOTNIMTIuMDk1MloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo="/>
+	</defs>
+	<style>
+		.s0 { fill: #0e6fff } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="s0" d="m0.6 8c0-4.4 3.6-8 8-8h35c4.4 0 8 3.6 8 8v35c0 4.4-3.6 8-8 8h-35c-4.4 0-8-3.6-8-8z"/>
+	<path id="Layer" class="s1" d="m40.1 23.7v3.6h-21.2l9.7 9.7-2.5 2.5-14-14 14-14 2.5 2.5-9.7 9.7z"/>
+	<use id="arrow-right" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>
